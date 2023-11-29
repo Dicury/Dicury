@@ -1,5 +1,3 @@
-<p align="center"><img src="https://www.horizont.com.hr/posao/frontend-developer.gif" alt="dicury" /> </p>
-
 <h1 align="center">Olá 👋, me chamo Mateus Cury</h1>
 <h3 align="center">Desenvolvedor Front-End e Designer Digital</h3>
 
